@@ -23,3 +23,4 @@ table = "gb_logs"
 ```
 
 ## Demo
+<img src="https://raw.githubusercontent.com/lalartu/gobootstrap/refs/heads/main/imgs/demo.gif" width="600"/>
